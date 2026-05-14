@@ -6,6 +6,10 @@ Slocum glider mission archive pipeline. Ingests IOOS Glider DAC segment files, m
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
+![Mission Track](docs/screenshots/mission_map.png)
+
+![Mission Dashboard](docs/screenshots/mission_dashboard.png)
+
 ## Architecture
 
 ```
